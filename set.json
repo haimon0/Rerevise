@@ -1,0 +1,373 @@
+{
+    "question": [
+        "Describe strong nuclear force between two nucleons",
+        "State nature of an alpha particle",
+        "Complete the equation below to represent the emission of an alpha particle, Use Th=a/z and A=a/z where a and z are integers",
+        "State what is meant by a proton number",
+        "State what is meant by a nucleon number",
+        "Find no. of neutrons in a=14 z=6 nucleus",
+        "Find specific charge of a a=14 z=6 nucleus",
+        "Explain why the alpha particle, once outside the nucleus, is unaffected by the SNF",
+        "Under certain conditions a y proton may be converted into an electrons and a positron.",
+        "Explain why there is a minimum energy of the photon for this conversion to take place and what happens when a y photon has slightly more energy than this value.",
+        "What is the virtual exchange particle used by electromotive force?",
+        "State 2 differences between exchange particles of weak interaction and EMF",
+        "State what is meant by an antiparticle",
+        "What constituent of an atom has the largest specific charge?",
+        "What name is used to describe an atom from which an electron has been removed?",
+        "What is the best estimate for the order of magnitude for the diameter of an atom?",
+        "A muon with the same momentum as an electron has a larger kinetic energy than the electron. True or false?",
+        "What class of particles is a proton a member of?",
+        "What is the quark composition of a proton?",
+        "What is the quark composition of a neutron?"
+    ],
+    "answers": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+    ],
+    "automark": [
+        [
+            "repulsive then attractive",
+            "short range",
+            "0.1-1.0fm"
+        ],
+        [
+            "2p and 2n"
+        ],
+        [
+            "Th=234/90",
+            "A=4/2"
+        ],
+        [
+            "number of protons"
+        ],
+        [
+            "number of protons and neutrons"
+        ],
+        [
+            "8"
+        ],
+        [
+            "4.1x10^7"
+        ],
+        [
+            "snf has a short distance",
+            "no effect",
+            "larger than 3fm"
+        ],
+        [
+            "pair production"
+        ],
+        [
+            "provide rest mass",
+            "kinetic energy"
+        ],
+        [
+            "y photon"
+        ],
+        [
+            "massless",
+            "infinite range",
+            "does not carry charge"
+        ],
+        [
+            "properties are opposite",
+            "same mass"
+        ],
+        [
+            "electron"
+        ],
+        [
+            "positive ion"
+        ],
+        [
+            "10^-11m"
+        ],
+        [
+            "f"
+        ],
+        [
+            "hadron"
+        ],
+        [
+            "uud"
+        ],
+        [
+            "udd"
+        ]
+    ],
+    "markscheme": [
+        [
+            "repulsive then attractive",
+            "short range",
+            "0.1-1.0fm"
+        ],
+        [
+            "2p and 2n"
+        ],
+        [
+            "Th=234/90",
+            "A=4/2"
+        ],
+        [
+            "number of neutrons"
+        ],
+        [
+            "number of protons and neutrons"
+        ],
+        [
+            "8"
+        ],
+        [
+            "4.1x10^7"
+        ],
+        [
+            "snf has a short distance",
+            "no effect",
+            "larger than 3fm"
+        ],
+        [
+            "pair production"
+        ],
+        [
+            "provide rest mass",
+            "kinetic energy"
+        ],
+        [
+            "y photon"
+        ],
+        [
+            "massless",
+            "infinite range",
+            "does not carry charge"
+        ],
+        [
+            "properties are opposite",
+            "same mass"
+        ],
+        [
+            "electron"
+        ],
+        [
+            "positive ion"
+        ],
+        [
+            "10^-11m"
+        ],
+        [
+            "f"
+        ],
+        [
+            "hadron"
+        ],
+        [
+            "uud"
+        ],
+        [
+            "udd"
+        ]
+    ],
+    "true_mastery": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "mastery": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "correct": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "incorrect": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "current_incorrect": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "partiallycorrect": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "reorder": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "images": [
+        "",
+        "",
+        "alphadecay.png",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "reorder_present": [
+        0
+    ],
+    "image_default": [
+        "blank_image.png"
+    ],
+    "maximum_question_number": 4,
+    "maximum_question_number_in_file": 19,
+    "topic": "Nuclear Physics"
+}
