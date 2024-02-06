@@ -111,10 +111,16 @@ This is an example of how to list things you need to use the software and how to
 
 <!-- USAGE EXAMPLES -->
 ## Usage
+<p>Main Menu</p>
+<img src="https://github.com/haimon0/Rerevise/assets/155584350/8eceb28f-f4f1-43eb-88f6-699979ea9df5" alt="main-menu" width="650"/>
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+<p>Questions Screen</p>
+<img src="https://github.com/haimon0/Rerevise/assets/155584350/bb43ec5c-7ee0-474f-8ce7-034b831c3e5e" alt="question-screen" width="650"/>
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+<p>Statistics Screen</p>
+<img src="https://github.com/haimon0/Rerevise/assets/155584350/a247a7d5-e79a-478c-91a3-43e3fb94a254" alt="question-screen" width="650"/>
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
