@@ -12,7 +12,7 @@
     <br />
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="">View Demo</a>
     ·
     <a href="https://github.com/haimon0/Rerevise/issues">Report Bug</a>
     ·
@@ -78,27 +78,26 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
+* PySimpleGUI
   ```sh
-  npm install npm@latest -g
+  pip install PySimpleGUI
+  ```
+  
+* tkinter
+  ```sh
+  pip install tk
+  ```
+  
+* MatPlotLib
+  ```sh
+  pip install matplotlib
   ```
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+1. Download all the files
+2. Install prerequisites
+3. Run main.py
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -123,7 +122,7 @@ This is an example of how to list things you need to use the software and how to
 
 <!-- ROADMAP -->
 ## Roadmap
-
+- [ ] Questions creator
 - [ ] Improved save system
 - [ ] Exam paper to JSON file convertor
 - [ ] Support for video and audio files
