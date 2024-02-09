@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/haimon0/Rerevise/assets/155584350/5962856c-ccba-4ddd-95b0-b82be9fd46fa" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Rerevise</h3>
