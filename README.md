@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/haimon0/Rerevise/tree/main">
     <img src="https://github.com/haimon0/Rerevise/assets/155584350/5962856c-ccba-4ddd-95b0-b82be9fd46fa" alt="Logo" width="150" height="150">
   </a>
 
